@@ -5,4 +5,5 @@ apt install wget -y
 apt install screen -y
 apt install wget -y
 apt install sudo -y
-apt update
+apt update 
+apt -y install htop
